@@ -10,7 +10,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.6'
 
 group :production do
-  gem 'pg', '0.18.4'
+  gem 'pg'
 end
 
 # Use jquery as the JavaScript library
