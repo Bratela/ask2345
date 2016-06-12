@@ -30,4 +30,10 @@ group :development do
   gem 'sqlite3'
 
 end
+group :assets do
+  gem 'therubyracer'
+  gem 'sass-rails'
+  gem 'coffee-rails'
+  gem 'uglifier'
+end
 
